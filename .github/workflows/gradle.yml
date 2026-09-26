@@ -67,4 +67,4 @@ jobs:
     - uses: actions/upload-artifact@v2
       with:
         name: Eagler-Windows
-        path: build/distributions/
+        path: build/distributions/ 
